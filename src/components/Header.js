@@ -7,25 +7,29 @@ class Header extends Component {
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
           <Navbar.Brand href="#0">MARKD</Navbar.Brand>
+          <Navbar.Text>A Markdown Previewer by&nbsp;</Navbar.Text>
+          <Nav className="me-auto">
+            <Nav.Link href="https://markrussell.dev">Mark Russell</Nav.Link>
+          </Nav>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="me-auto">
-              <Nav.Link href="#features">Features</Nav.Link>
-              <Nav.Link href="#pricing">Pricing</Nav.Link>
-              <NavDropdown title="Dropdown" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+              <NavDropdown title="Powered by" id="collasible-nav-dropdown">
+                <NavDropdown.Item href="https://getbootstrap.com">Bootstrap</NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+                <NavDropdown.Item href="https://reactjs.org">React</NavDropdown.Item>
+                <NavDropdown.Divider />
+                <NavDropdown.Item href="https://www.npmjs.com/package/react-markdown">react-markdown</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.npmjs.com/package/remark-gfm">remark-gfm</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.npmjs.com/package/rehype-highlight">rehype-highlight</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.npmjs.com/package/react-bootstrap">react-bootstrap</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.npmjs.com/package/react-tooltip">react-tooltip</NavDropdown.Item>
+                <NavDropdown.Item href="https://www.npmjs.com/package/file-saver">file-saver</NavDropdown.Item>
               </NavDropdown>
             </Nav>
-            <Nav>
-              <Nav.Link href="#deets">More deets</Nav.Link>
-              <Nav.Link eventKey={2} href="#memes">
-                Dank memes
-              </Nav.Link>
-            </Nav>
+            {/* <Nav>
+              <Nav.Link href="#deets">Hire me &rarr;</Nav.Link>
+            </Nav> */}
           </Navbar.Collapse>
         </Container>
       </Navbar>
