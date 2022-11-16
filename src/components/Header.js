@@ -6,7 +6,9 @@ class Header extends Component {
     return (
       <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
         <Container>
-          <Navbar.Brand href="#0">MARKD</Navbar.Brand>
+          <Navbar.Brand className="fw-bold">
+            <i className="bi bi-markdown-fill"></i>&nbsp;MARKD
+          </Navbar.Brand>
           <Navbar.Text>A Markdown Previewer by&nbsp;</Navbar.Text>
           <Nav className="me-auto">
             <Nav.Link href="https://markrussell.dev">Mark Russell</Nav.Link>
