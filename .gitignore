@@ -28,3 +28,4 @@ yarn-error.log*
 #other
 /src/reportWebVitals.js
 /src/setupTests.js
+/src/App.test.js
