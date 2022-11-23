@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#templates
+/src/components/Layout.js
+
+#other
+/src/reportWebVitals.js
+/src/setupTests.js
