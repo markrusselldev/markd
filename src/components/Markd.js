@@ -21,7 +21,7 @@ function Markd({ content }) {
 
   // set page height
   const pageHeight = {
-    height: "calc(100vh - 56px)"
+    height: "calc(100vh - 75px)"
   }
 
   // load demo markdown from file
