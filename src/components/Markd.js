@@ -95,7 +95,7 @@ function Markd({ content }) {
 
   return (
     <Container style={pageHeight}>
-      <Row className="h-100">
+      <Row className="h-100 mt-2">
         <Col xs={5}>
           <Stack direction="horizontal" gap={3} className="mt-2 mb-1">
             <Button onClick={saveMarkdown} variant="outline-primary" className="btn-sm" data-tip="Save Markdown" data-for="save-md-tooltip" data-type="info">
