@@ -20,10 +20,11 @@ These features **do not work by default**.
 
 https://example.com
 
-# Images
-![Placeholder Image](https://via.placeholder.com/150)
+## Images
+![Placeholder Image 1](https://via.placeholder.com/150)
+![Placeholder Image 2](https://via.placeholder.com/300)
 
-# Blockquote
+## Blockquote
 
 > Lorem Ipsum is simply dummy text of the printing and typesetting 
 > industry. Lorem Ipsum has been the industry's standard dummy text 
