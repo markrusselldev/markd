@@ -21,8 +21,9 @@ These features **do not work by default**.
 https://example.com
 
 ## Images
-![Placeholder Image 1](https://via.placeholder.com/140x100)
-![Placeholder Image 2](https://via.placeholder.com/200x100)
+![Placeholder Image 2](https://picsum.photos/200/300)
+
+![Placeholder Image 1](https://picsum.photos/300/200)
 
 ## Blockquote
 
