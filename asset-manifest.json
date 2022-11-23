@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/markd/static/css/main.8e4c2851.css",
-    "main.js": "/markd/static/js/main.4efb829e.js",
-    "static/js/348.e3a90df4.chunk.js": "/markd/static/js/348.e3a90df4.chunk.js",
+    "main.js": "/markd/static/js/main.3d4a9ba4.js",
+    "static/js/348.d5d354ee.chunk.js": "/markd/static/js/348.d5d354ee.chunk.js",
     "static/js/787.3f07f493.chunk.js": "/markd/static/js/787.3f07f493.chunk.js",
     "static/media/bootstrap-icons.woff?": "/markd/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
     "static/media/bootstrap-icons.woff2?": "/markd/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
-    "static/media/demo.md": "/markd/static/media/demo.9d34547da7142c42e789.md",
+    "static/media/demo.md": "/markd/static/media/demo.ff7f6a0ffc3c7358b7f9.md",
     "index.html": "/markd/index.html",
     "main.8e4c2851.css.map": "/markd/static/css/main.8e4c2851.css.map",
-    "main.4efb829e.js.map": "/markd/static/js/main.4efb829e.js.map",
+    "main.3d4a9ba4.js.map": "/markd/static/js/main.3d4a9ba4.js.map",
     "787.3f07f493.chunk.js.map": "/markd/static/js/787.3f07f493.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e4c2851.css",
-    "static/js/main.4efb829e.js"
+    "static/js/main.3d4a9ba4.js"
   ]
 }

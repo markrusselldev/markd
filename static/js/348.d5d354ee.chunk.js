@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmarkd=self.webpackChunkmarkd||[]).push([[348],{4348:function(f,e,a){f.exports=a.p+"static/media/demo.ff7f6a0ffc3c7358b7f9.md"}}]);
